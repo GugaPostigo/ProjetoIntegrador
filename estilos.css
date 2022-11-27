@@ -1,0 +1,23 @@
+.titulo{
+    text-align: center;
+    font-size: 80px;
+    margin: 120px;
+}
+.rodape{
+    background-color: rgba(70, 84, 121, 0.9);
+    color: #fff;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+
+}
+body{
+    margin: 0;
+    font-size: 20px;
+    font-family: Arial;
+    background-color: rgb(105, 104, 104);
+}
+.tipo1{
+    text-align: center;
+    padding: 20px;
+}
